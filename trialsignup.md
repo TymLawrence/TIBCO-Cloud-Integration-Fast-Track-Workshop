@@ -1,6 +1,6 @@
-# Getting Started with TIBCO Cloud
+# Creating a TIBCO Cloud Trial Account
 
-The workshop requires a TIBCO Cloud account. Within that Cloud account, you'll signup to use **TIBCO Cloud Integration**, **TIBCO Live Apps** and **TIBCO Mashery**
+The workshop requires a TIBCO Cloud trail account. Within that Cloud account, you'll signup to use **TIBCO Cloud Integration**, **TIBCO Live Apps** and **TIBCO Mashery**
 
 The following instructions walk you through getting your environment all setup.
 In a new tab, follow this URL, [https://cloud.tibco.com/cloud-services](https://cloud.tibco.com/cloud-services).  
@@ -9,6 +9,8 @@ In a new tab, follow this URL, [https://cloud.tibco.com/cloud-services](https://
 In **TIBCO Cloud Integration**, select **FREE TRIAL**.
 
 <img src="./images/oz1.png" alt="Cloud Integration Free Trial" width=1000/>
+
+IMPORTANT: If you are an existing TIBCO customer or employee, **please use your personal email account**.
 
 In the Trial Sign Up form, select **AWS** as the hosting environment. Enter your details and be sure to enter a valid email address. 
 Make sure the AWS instance is hosted in **Australia** (which is the default instance for most countries in Asia Pacific region) to start your free trial.
